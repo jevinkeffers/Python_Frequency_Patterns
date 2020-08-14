@@ -1,8 +1,8 @@
 def some_function(a,b):
-    if len(a)==len(b):
-        pass
-    else:
-        return False
+    # if len(a)==len(b):
+    #     pass
+    # else:
+    #     return False
 
     # dict_a = {}
     # dict_b = {}
